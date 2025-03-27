@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
-int main (){
+int main()
+{
     int n,s=0,a=0,k;
     cout<<"enter exact 3 digit number\n";
     cin>>n; //153
